@@ -67,7 +67,7 @@ import com.campus.model.Student;
             return 'A';
         }else if(average >= 80){
             return 'B';
-        }else if(average >= 70){
+        }else if(average >= 70){   
             return 'C';
         }else if(average >= 60){
             return 'D';
